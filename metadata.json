@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA",
+  "description": "AI-powered educational search and learning app with live web grounding, multi-source synthesis, interactive quizzes, and offline library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
